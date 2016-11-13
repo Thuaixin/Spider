@@ -1,2 +1,3 @@
-# Spider
-这是一个关于爬虫的代码集合
+# ganji_zhaopin_Spider
+基于requests及BeautifulSoup做的赶集网招聘信息的爬虫程序。
+数据库采用MongoDB
